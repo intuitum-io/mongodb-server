@@ -2,13 +2,13 @@
 
 This repository installs MongoDB 5.0 Community Edition on 20.04 LTS ("Focal". To install a different version of MongoDB Community Edition, visit the MongoDB Documentation.
 
-# Pre-requisits
+## Pre-requisits
 
 1. Unix OS (Host)
 2. Vagrant >= 2.2.18
 3. Virtualbox >= 6.1.2
 
-# Build the Ubuntu Server using Vagrant
+## Build the Ubuntu Server using Vagrant
 
 ```sh
 git clone https://github.com/intuitum-io/mongodb-server.git
